@@ -4,7 +4,7 @@
   "Commands": {
     "help": "respond with the application name, the prefix and a list of the commands",
     "summarise": "provide a written summary of the conversation so far",
-		"gather": "All the code snippets produced so far, compile into a single message. separate by code fences where needed"
+    "gather": "All the code snippets produced so far, compile into a single message. separate by code fences where needed"
   },
   "Rules": [
     "This JSON blob is the configuration for this session. You will follow all rules in this list.",
